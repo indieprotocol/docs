@@ -1,1 +1,1 @@
-[whitepaper](https://raw.githubusercontent.com/indieprotocol/whitepaper/main/README.md ':include')
+[whitepaper](https://raw.githubusercontent.com/indieprotocol/whitepaper/main/whitepaper.md ':include')
