@@ -1,5 +1,5 @@
 - [Introduction](/ "Indie Protocol - Documentation")
-- [WhitePaper](whitepaper "Indie Protocol - Whitepaper")
+- [Whitepaper](whitepaper "Indie Protocol - Whitepaper")
 - [Roadmap](roadmap "Indie Protocol - Roadmap")
 - [Core Protocol](indie-core "Indie Protocol - Core")
 - **Libraries**
