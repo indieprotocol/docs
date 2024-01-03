@@ -1,6 +1,45 @@
-# Indie Protocol Documentation
+# Indie Protocol
 
-The contents on this page is provided as an agile effort by Indie Protocol community on [GitHub](https://github.com/indieprotocol).
+> **Thinking differently** about digital media creators business models
+
+*This documentation is provided as an joint effort of Indie Protocol community on [GitHub](https://github.com/indieprotocol).*
+
+## Problems we aim to solve
+
+- **Copyright laws from centuries ago protecting content creators and artists of the digital media age is not working.**
+Digital content properties are different from the conventional media reproduction required for distributing copies of the artists and creators work in the 16th century. Even in the 20th century the physical copies were the basis for distribution of music, publishing, photography and movies.
+But now copies are digital. Anyone can create infinite copies of any digital content. Should we continue to look at copies of a art work as something scarce and valuable? What if digital artists and creators are "selling" the wrong product to their fans? Maybe digital copies are not the product...
+
+- **The digital media content train has left the station and it's impossible to revert it's course.**
+Digital Rights Management (DRM) platforms and content aggregators like Amazon, Spotify or Apple Music seem to have been a failed attempt at making digital media scarce by restricting it's availability and hiding it behind a pay wall. The result has not been great for the platforms over time, but has become unbearable for the vast majority of artists and creators...
+
+- **What's the value of sand in a desert? But maybe water is very valuable, because of its scarcity.**
+We think that until we understand this shift in the digital media availability and distribution, nothing will change in the content creators and artists business results.
+But what is scarce in the digital age? And what about the distribution and funding for creative work?
+
+## What does Indie bring?
+
+> **Let's rethink the business models for the digital age**
+> and free our creations from their recording, publishing or distribution artificial prisons.
+
+- **Distribution is almost instant**
+And free thanks to the Internet and all open source technology. Can't our creations also be available to all our audience instantly and without fences?
+
+- **Time and attention is scarce**
+Indie Protocol is a new business model that leverages the Internet and Blockchain to monetize digital content in new and non-intrusive ways.
+
+- **Collectibles as the magic potion**
+But not for intellectual property or copy rights! Fans will also prefer to collect items and get exclusive perks directly from creators.
+
+- **Crowd funding for creators**
+This is already a reality, but can be evolved to be tracked via the Blockchain, and even distribute exclusive collectibles to bakers.
+
+- **Digital tickets**
+Indie enables artists to sell live performances directly to their fans, and open up their studios or promote their own special events.
+
+- **Exclusive content for super-fans**
+Super-fans always wanted their vanity items. With Indie we can think of giving them even more! Actually, the only limit is the imagination...
+
 
 ## Blockchain Identity 
 Indie Protocol is a decentralized “Blockchain as Organization” (BaO); an industrial-grade decentralized open source platform built to run high-performance digital content publishing, provision and licensing operations. It represents a decentralized autonomous community that enables its core utility token (IND) holders to decide the Blockchain future direction in order to develop and maintain a wide range of decentralized digital content publishing and provision (IPFS), licensing and fee distribution. Indie Protocol is a Blockchain that permanently records digital media operations between different Blockchain accounts and facilitates a wide range of access controls across Indie Protocol users.
