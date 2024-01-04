@@ -1,7 +1,7 @@
-- [Introduction](/ "Indie Protocol - Documentation")
-- [Whitepaper](whitepaper "Indie Protocol - Whitepaper")
-- [Roadmap](roadmap "Indie Protocol - Roadmap")
-- [Core Protocol](indie-core "Indie Protocol - Core")
+- [About](/ "About Indie Protocol")
+- [Whitepaper](whitepaper "Indie Protocol Whitepaper")
+- [Roadmap](roadmap "Indie Protocol Roadmap")
+- [Core Protocol](indie-core "Indie Protocol Core")
 - **Libraries**
 - [JS Client](indiejs "Indie JavaScript Client")
 - **Resources**
